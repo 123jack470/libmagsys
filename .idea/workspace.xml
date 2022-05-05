@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="df8462d3-6dbe-4b81-be66-3289a15df994" name="Default" comment="">
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
+      <change beforePath="$PROJECT_DIR$/Redme.txt" afterPath="$PROJECT_DIR$/Redme.txt" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -206,7 +206,7 @@
       <select />
     </treeState>
   </component>
-  <component name="ProjectFrameBounds" extendedState="7">
+  <component name="ProjectFrameBounds" extendedState="6">
     <option name="x" value="-9" />
     <option name="y" value="-9" />
     <option name="width" value="2418" />
@@ -480,7 +480,7 @@
       <workItem from="1630140209964" duration="27000" />
       <workItem from="1635855237619" duration="1817000" />
       <workItem from="1651721313639" duration="10105000" />
-      <workItem from="1651732977771" duration="745000" />
+      <workItem from="1651732977771" duration="1419000" />
     </task>
     <servers />
   </component>
@@ -517,7 +517,7 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="125424000" />
+    <option name="totallyTimeSpent" value="126098000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -529,7 +529,7 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="-9" y="-9" width="2578" height="1408" extended-state="7" />
+    <frame x="-9" y="-9" width="2578" height="1408" extended-state="6" />
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.329661" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
